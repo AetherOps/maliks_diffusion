@@ -1,4 +1,4 @@
-# Perona-Malik Diffusion
+# Perona-Malik Diffusion 
 
 The **Perona-Malik Diffusion** API applies the **Perona-Malik anisotropic diffusion algorithm** to images, providing a powerful tool for **edge-preserving image smoothing**. This technique is especially useful for **noise reduction** and **image enhancement**. It works by iterating over the image and modifying pixel intensities based on their surrounding pixels and the selected edge-stopping function.
 
